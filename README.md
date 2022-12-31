@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Addisu 
 - 👀 I’m interested in data science and data analysis 
-- 🌱 I’m currently learning mechatronics engineering 
-- 💞️ I’m looking to collaborate on topics related to data science 
-- 📫 How to reach me ...with email or on get hub 
+- 🌱 I’m currently looking for data analytics postion 
+- 💞️ I’m looking to collaborate on topics related to data analysis and visualizaion 
 
 <!---
 atalualemu/atalualemu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
